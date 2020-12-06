@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">Pokedex2020</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="pokemon_image_description">image of the pokemon</string>
+    <string name="pokemon1">Bulbizarre</string>
+    <string name="pokemon2">Pikachu</string>
+    <string name="pokemon3">Salamèche</string>
+    <string name="pokemon4">Carapuce</string>
+    <string name="pokemon5">Goupix</string>
+    <string name="pokemon6">Miaouss</string>
+    <string name="pokemon7">Poissirène</string>
+    <string name="pokemon8">Taupiqueur</string>
+    <string name="pokemon9">Persian</string>
+    <string name="pokemon10">Rondoudou</string>
+
 </resources>
